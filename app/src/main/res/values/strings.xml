@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="et_temp">Enter the temperature</string>
+    <string name="rd_btn_c">Celsius</string>
+    <string name="rd_btn_f">Faranhite</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="tv_view">show</string>
+</resources>
